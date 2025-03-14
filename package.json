@@ -1,0 +1,23 @@
+{
+  "name": "trampotop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Cintra",
+  "license": "ISC",
+  "description": "O melhor site de trampo do Brasil",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
