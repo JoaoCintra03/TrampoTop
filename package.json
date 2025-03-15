@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "João Cintra",
+  "author": "Prof. Chines",
   "license": "ISC",
-  "description": "O melhor site de trampo do Brasil",
+  "description": "O melhor site de trampo do Brasil.",
   "dependencies": {
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
